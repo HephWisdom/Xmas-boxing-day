@@ -1,0 +1,24 @@
+{
+  "name": "uenr202",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botchway44/space-exploration-uenr-202.git"
+  },
+  "author": "wisdom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botchway44/space-exploration-uenr-202/issues"
+  },
+  "homepage": "https://github.com/botchway44/space-exploration-uenr-202#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
